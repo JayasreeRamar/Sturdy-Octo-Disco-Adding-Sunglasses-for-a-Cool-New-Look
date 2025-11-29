@@ -38,7 +38,8 @@ print("Face shape:", faceImage.shape)
 ```
 
 
-![Uploading Screenshot 2025-11-29 101951.png…]()
+<img width="892" height="848" alt="Screenshot 2025-11-29 101951" src="https://github.com/user-attachments/assets/10ea75f4-4b9c-4e4d-bc94-c270da390edf" />
+
 
 
 
